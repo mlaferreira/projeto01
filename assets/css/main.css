@@ -49,6 +49,14 @@ body{
 footer{
     margin-top: 72px;
 }
+footer .line{
+    width: 592px;
+    margin: auto;
+    height: 0;
+    border: 1px solid var(--color-destaque);
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
 footer a{
     color: var(--color-destaque);
 }
